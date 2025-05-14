@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|c:\\users\\ahmad\\desktop\\unity\\project\\project2\\assets\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemydamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|c:\\users\\ahmad\\desktop\\unity\\project\\project2\\assets\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy_sideways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\assets\\martial hero\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|Assembly-CSharp.csproj|solutionrelative:assets\\martial hero\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Health\\Health.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:27:53.193Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyDamage.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\EnemyDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyDamage.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\EnemyDamage.cs",
+              "RelativeToolTip": "Assets\\EnemyDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:35:32.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\EnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyProjectile.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\EnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\EnemyProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:35:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrowTrap.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\ArrowTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\ArrowTrap.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\ArrowTrap.cs",
+              "RelativeToolTip": "Assets\\ArrowTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:26:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy_Sideways.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Enemy_Sideways.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy_Sideways.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Enemy_Sideways.cs",
+              "RelativeToolTip": "Assets\\Enemy_Sideways.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T05:20:16.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Healthbar.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Health\\Healthbar.cs",
+              "RelativeDocumentMoniker": "Assets\\Health\\Healthbar.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Health\\Healthbar.cs",
+              "RelativeToolTip": "Assets\\Health\\Healthbar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:28:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:48:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:40:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "License.txt",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Martial Hero\\License.txt",
+              "RelativeDocumentMoniker": "Assets\\Martial Hero\\License.txt",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Unity\\Project\\Project2\\Assets\\Martial Hero\\License.txt",
+              "RelativeToolTip": "Assets\\Martial Hero\\License.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-09T13:18:58.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

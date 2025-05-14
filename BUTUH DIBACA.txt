@@ -1,0 +1,6 @@
+ini adalah link drive zip project
+https://drive.google.com/drive/folders/16NpHOZFms2lTl9YBASn30FFX31IRo3IN?usp=sharing
+
+ini terhapus karena terlalu besar github
+libburst-llvm-19.dylib
+libburst-llvm-18.dylib
